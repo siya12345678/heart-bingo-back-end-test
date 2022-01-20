@@ -1,0 +1,27 @@
+2021-12-11 16:12:693 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 16:12:106 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (990911058a0ff04e2ec1637f3a80845a)] -> link text: Log in]
+2021-12-11 16:12:154 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (990911058a0ff04e2ec1637f3a80845a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-01-19 23:01:728 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:846 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:333 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:875 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:441 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:864 INFO  HomePage :60 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e440662af0530a2da5aa3350bdc46ff8)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-19 23:01:150 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:236 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:514 INFO  HomePage :60 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (41141f8f9cd74de46ea1d1a57bd9cdb3)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-19 23:01:346 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 23:01:492 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:544 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:330 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:147 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:741 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:198 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:992 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:783 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 16:01:537 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:883 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:842 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:263 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:149 INFO  ManageDriver :30 - Launching Chrome Browser
